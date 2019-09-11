@@ -7,3 +7,6 @@ There I learning this:
 04. Signing transactions - Blockchain in Javascript (part 4)
 05. Angular frontend - Blockchain in Javascript (part 5)
 
+
+
+this is the link https://www.youtube.com/playlist?list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4
